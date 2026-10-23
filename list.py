@@ -30,4 +30,14 @@ list5.sort()
 print(list5)
 list5.reverse()
 print(list5)
+# Insert Fuction
+lab = [1,2,3,4,5]
+lab.insert(2, 10)
+print(lab)
+# remove element
+lab.remove(3)
+print(lab)
+# Remove index Element
+lab.pop(2)
+print(lab)
 
